@@ -27,6 +27,6 @@ tmp/*
 !data/ml_100k/README.md
 !data/ml_1m/README.md
 !data/ml_10m/README.md
-
+!data/kdd_247/README.md
 !gcmc/logs/README.md
 !gcmc/tmp/README.md
